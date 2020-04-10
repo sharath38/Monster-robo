@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Monster-robo/static/css/main.923f5f2f.chunk.css",
+    "main.js": "/Monster-robo/static/js/main.b141f9cc.chunk.js",
+    "main.js.map": "/Monster-robo/static/js/main.b141f9cc.chunk.js.map",
+    "runtime-main.js": "/Monster-robo/static/js/runtime-main.6c3851ab.js",
+    "runtime-main.js.map": "/Monster-robo/static/js/runtime-main.6c3851ab.js.map",
+    "static/js/2.9ace2ea0.chunk.js": "/Monster-robo/static/js/2.9ace2ea0.chunk.js",
+    "static/js/2.9ace2ea0.chunk.js.map": "/Monster-robo/static/js/2.9ace2ea0.chunk.js.map",
+    "index.html": "/Monster-robo/index.html",
+    "precache-manifest.d548b16ac75171cbbef68b04cbb5e8e3.js": "/Monster-robo/precache-manifest.d548b16ac75171cbbef68b04cbb5e8e3.js",
+    "service-worker.js": "/Monster-robo/service-worker.js",
+    "static/css/main.923f5f2f.chunk.css.map": "/Monster-robo/static/css/main.923f5f2f.chunk.css.map",
+    "static/js/2.9ace2ea0.chunk.js.LICENSE.txt": "/Monster-robo/static/js/2.9ace2ea0.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6c3851ab.js",
+    "static/js/2.9ace2ea0.chunk.js",
+    "static/css/main.923f5f2f.chunk.css",
+    "static/js/main.b141f9cc.chunk.js"
+  ]
+}
